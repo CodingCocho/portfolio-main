@@ -1,18 +1,47 @@
 [
   {
     "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "name": "Frontend Mastery Capstone Project",
+    "image": "https://imgur.com/KgtIHgA.png",
+    "description": "A banking web app that keeps track of user's currencies and allows for exchange of currencies by using an API call.",
+    "tags": ["react", "sass", "css", "javascript", "useRef", "useEffect", "useState", "react props", "firebase"],
+    "source_code": "https://github.com/CodingCocho/CleverProgrammer-Front-End-Development-Capstone-Project",
+    "demo": "https://clever-programmer-front-end-development-capstone-project.vercel.app/"
   },
   {
-    "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "id": 2,
+    "name": "Queue Data Structure Demonstration",
+    "image": "https://imgur.com/Keqi7Iu.png",
+    "description": "A visualization of the Queue data structure.",
+    "tags": ["react", "sass", "css", "javascript", "useState", "useEffect", "data structures"],
+    "source_code": "https://github.com/CodingCocho/queue-data-structure-web-application-with-react-js",
+    "demo": "https://queue-data-structure-web-application-with-react-js.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "Stack Data Structure Demonstration",
+    "image": "https://imgur.com/cf48Vrg.png",
+    "description": "A visualization of the Stack data structure.",
+    "tags": ["react", "sass", "css", "javascript", "useState", "useEffect", "data structures"],
+    "source_code": "https://github.com/CodingCocho/stack-data-structure-web-application-with-react-js",
+    "demo": "https://stack-data-structure-web-application-with-react-js.vercel.app/"
+  },
+  {
+    "id": 4,
+    "name": "Base Apparel Landing Page",
+    "image": "https://imgur.com/5RKTOTj.png",
+    "description": "A mobile responsive landing page for an apparel brand.",
+    "tags": ["react", "tailwind css", "javascript"],
+    "source_code": "https://github.com/CodingCocho/base-apparel-react.js-landing-page",
+    "demo": "https://base-apparel-react-js-landing-page.vercel.app/"
+  },
+  {
+    "id": 5,
+    "name": "Text Editor",
+    "image": "https://imgur.com/D1VdXQw.png",
+    "description": "A text editor that mimics google docs.",
+    "tags": ["html", "css", "javascript"],
+    "source_code": "https://github.com/CodingCocho/PWJ-Text-Editor-Project",
+    "demo": "https://pwj-text-editor-project.vercel.app/"
   }
 ]

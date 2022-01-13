@@ -9,7 +9,7 @@ const ContactCode = () => {
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;website:{' '}
         <a href="#" target="_blank" rel="noopener">
-          
+            Coming soon...
         </a>
         ;
       </p>
