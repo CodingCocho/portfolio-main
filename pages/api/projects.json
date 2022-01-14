@@ -10,12 +10,12 @@
   },
   {
     "id": 2,
-    "name": "Queue Data Structure Demonstration",
-    "image": "https://imgur.com/Keqi7Iu.png",
-    "description": "A visualization of the Queue data structure.",
-    "tags": ["react", "sass", "css", "javascript", "useState", "useEffect", "data structures"],
-    "source_code": "https://github.com/CodingCocho/queue-data-structure-web-application-with-react-js",
-    "demo": "https://queue-data-structure-web-application-with-react-js.vercel.app/"
+    "name": "NFT Market Landing Page",
+    "image": "https://imgur.com/1SkfFm1.png",
+    "description": "A web3 landing page that displays NFT's fetched using an API call to OpenSea using a test network.",
+    "tags": ["react", "sass", "css", "javascript", "useEffect", "useState", "react props", "thirdweb"],
+    "source_code": "https://github.com/CodingCocho/CP-NFT-React-App",
+    "demo": "https://cp-nft-react-app.vercel.app/"
   },
   {
     "id": 3,
@@ -28,6 +28,15 @@
   },
   {
     "id": 4,
+    "name": "Queue Data Structure Demonstration",
+    "image": "https://imgur.com/Keqi7Iu.png",
+    "description": "A visualization of the Queue data structure.",
+    "tags": ["react", "sass", "css", "javascript", "useState", "useEffect", "data structures"],
+    "source_code": "https://github.com/CodingCocho/queue-data-structure-web-application-with-react-js",
+    "demo": "https://queue-data-structure-web-application-with-react-js.vercel.app/"
+  },
+  {
+    "id": 5,
     "name": "Base Apparel Landing Page",
     "image": "https://imgur.com/5RKTOTj.png",
     "description": "A mobile responsive landing page for an apparel brand.",
@@ -36,7 +45,7 @@
     "demo": "https://base-apparel-react-js-landing-page.vercel.app/"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Text Editor",
     "image": "https://imgur.com/D1VdXQw.png",
     "description": "A text editor that mimics google docs.",
