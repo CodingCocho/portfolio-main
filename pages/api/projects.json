@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "name": "Profile Card Component",
+    "image": "https://imgur.com/82O7XAf.",
+    "description": "A profile card component.",
+    "tags": ["html", "sass", "css"],
+    "source_code": "https://github.com/CodingCocho/profile-card-component-with-vanilla-HTML-and-SASS",
+    "demo": "https://profile-card-component-with-vanilla-html-and-sass.vercel.app/"
+  },
+  {
+    "id": 2,
     "name": "Priority Queue Data Structure Demonstration",
     "image": "https://imgur.com/tqbhrkZ.png",
     "description": "A visualization of the Priority Queue data structure.",
@@ -9,7 +18,7 @@
     "demo": "https://priority-queue-data-structure-web-application-with-react-js.vercel.app/"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Queue Data Structure Demonstration",
     "image": "https://imgur.com/zEXUgN1.png",
     "description": "A visualization of the Queue data structure.",
@@ -18,7 +27,7 @@
     "demo": "https://queue-data-structure-web-application-with-react-js.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Stack Data Structure Demonstration",
     "image": "https://imgur.com/OOUwMCn.png",
     "description": "A visualization of the Stack data structure.",
@@ -27,7 +36,7 @@
     "demo": "https://stack-data-structure-web-application-with-react-js.vercel.app/"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Frontend Mastery Capstone Project",
     "image": "https://imgur.com/KgtIHgA.png",
     "description": "A banking web app that keeps track of user's currencies and allows for exchange of currencies by using an API call.",
@@ -36,21 +45,12 @@
     "demo": "https://clever-programmer-front-end-development-capstone-project.vercel.app/"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "NFT Market Landing Page",
     "image": "https://imgur.com/1SkfFm1.png",
     "description": "A web3 landing page that displays NFT's fetched using an API call to OpenSea using a test network.",
     "tags": ["react", "sass", "css", "javascript", "useEffect", "useState", "react props", "thirdweb"],
     "source_code": "https://github.com/CodingCocho/CP-NFT-React-App",
     "demo": "https://cp-nft-react-app.vercel.app/"
-  },
-  {
-    "id": 6,
-    "name": "Base Apparel Landing Page",
-    "image": "https://imgur.com/5RKTOTj.png",
-    "description": "A mobile responsive landing page for an apparel brand.",
-    "tags": ["react", "tailwind css", "javascript"],
-    "source_code": "https://github.com/CodingCocho/base-apparel-react.js-landing-page",
-    "demo": "https://base-apparel-react-js-landing-page.vercel.app/"
   }
 ]
