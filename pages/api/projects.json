@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "name": "Advice Generator Web App",
+    "image": "https://imgur.com/I2t2FpB.png",
+    "description": "An advice generator web application that is mobile responsive and uses an API to fetch random advice.",
+    "tags": ["html", "sass", "css", "javascript", "api"],
+    "source_code": "https://github.com/CodingCocho/advice-generator-app-API-implementation-with-vanilla-HTML-and-SASS",
+    "demo": "https://advice-generator-app-api-implementation-git-69ab9c-codingcocho.vercel.app/"
+  },
+  {
+    "id": 2,
     "name": "Tip Calculator Web App",
     "image": "https://imgur.com/jf1xR9u.png",
     "description": "A tip calculator web application that is mobile responsive.",
@@ -9,7 +18,7 @@
     "demo": "https://tip-calculator-app-with-vanilla-html-and-sass.vercel.app/"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Sign Up Form Component",
     "image": "https://imgur.com/E67dn3U.png",
     "description": "A sign up form component that is mobile responsive.",
@@ -18,7 +27,7 @@
     "demo": "https://intro-component-with-signup-form-with-vanilla-html-and-sass.vercel.app/"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "FAQ Accordion Card Component",
     "image": "https://imgur.com/GIRMh8c.png",
     "description": "A FAQ Accordion Card component that is mobile responsive.",
@@ -27,7 +36,7 @@
     "demo": "https://faq-accordion-card-component-with-vanilla-html-and-sass.vercel.app/"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Article Card Component",
     "image": "https://imgur.com/1I3IRSy.png",
     "description": "An article card component that is mobile responsive.",
@@ -36,7 +45,7 @@
     "demo": "https://article-preview-component-with-vanilla-html-and-sass.vercel.app/"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Profile Card Component",
     "image": "https://imgur.com/LcPgsfd.png",
     "description": "A profile card component.",
@@ -45,7 +54,7 @@
     "demo": "https://profile-card-component-with-vanilla-html-and-sass.vercel.app/"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Priority Queue Data Structure Demonstration",
     "image": "https://imgur.com/tqbhrkZ.png",
     "description": "A visualization of the Priority Queue data structure.",
@@ -54,7 +63,7 @@
     "demo": "https://priority-queue-data-structure-web-application-with-react-js.vercel.app/"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Queue Data Structure Demonstration",
     "image": "https://imgur.com/zEXUgN1.png",
     "description": "A visualization of the Queue data structure.",
@@ -63,7 +72,7 @@
     "demo": "https://queue-data-structure-web-application-with-react-js.vercel.app/"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Stack Data Structure Demonstration",
     "image": "https://imgur.com/OOUwMCn.png",
     "description": "A visualization of the Stack data structure.",
@@ -72,7 +81,7 @@
     "demo": "https://stack-data-structure-web-application-with-react-js.vercel.app/"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "NFT Market Landing Page",
     "image": "https://imgur.com/1SkfFm1.png",
     "description": "A web3 landing page that displays NFT's fetched using an API call to OpenSea using a test network.",
