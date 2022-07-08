@@ -97,5 +97,5 @@
     "tags": ["react", "sass", "css", "javascript", "useState", "useEffect", "data structures"],
     "source_code": "https://github.com/CodingCocho/stack-data-structure-web-application-with-react-js",
     "demo": "https://stack-data-structure-web-application-with-react-js.vercel.app/"
-  },
+  }
 ]
